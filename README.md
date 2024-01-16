@@ -21,3 +21,7 @@ The various projects are below:
 
 ## Unsupervized Learning
 1. [Restaurant Recommender](https://github.com/chitransh1998/Restaurant-Recommender): We build a recommendation system where we specifically focus on geographic locations to render the top 5 restaurants based on the current location of the user.
+
+## Natural Language Processing
+1. [Amazon Food Reviews Sentiment Analysis](https://github.com/chitransh1998/Amazon-Reviews-Sentiment-Analysis/blob/main/README.md): Using Roberta transformer from Huggingface and VADER models to find the sentiment of reviews of food items on Amazon.
+
