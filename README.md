@@ -45,7 +45,7 @@ The purpose of this project is to detect tampering of PAN Card using Computer Vi
 
 #
 
-## Regression and Classification
+## Supervised Machine Learning
 
 <img align="left" width="250" height="130" src="https://github.com/chitransh1998/Heart-Disease-Prediction-/blob/main/heart%20disease.jpg"> **[Heart Disease Prediction](https://github.com/chitransh1998/Heart-Disease-Prediction-)**
 
@@ -65,7 +65,7 @@ In this project, we predict Life expectancy of different countries. We will expl
 
 #
 
-## Unsupervized Learning
+## Unsupervized Machine Learning
 
 <img align="left" width="250" height="130" src="https://github.com/chitransh1998/Restaurant-Recommender/blob/main/restaurant.jpg"> **[Restaurant Recommender](https://github.com/chitransh1998/Restaurant-Recommender)**
 
