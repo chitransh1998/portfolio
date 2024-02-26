@@ -18,7 +18,16 @@ This project is about my work with the administration of Bokaro (District in Eas
 
 This recommendation engine helps users identify the most suitable Large Language Model (LLM) for their use-case by aggregating data from various sources such as the Hugging Face Leaderboard, Twitter, and GitHub. It utilizes semantic search combined with real-time analytics to provide accurate recommendations.  
 
+#
 ## Computer Vision
+#
+
+<img align="left" width="250" height="150" src="https://github.com/chitransh1998/Text-Detection/blob/main/detection_result.png"> **[Text-Detection](https://github.com/chitransh1998/Text-Detection)**
+
+In this project, we utilize various image processing and machine learning algorithms to detect and recognize text in documents and images. Another application area explored was embossed text detction. This project was carried out by me as part of the Summer Internship at IIT Delhi in the NVM Research group.  
+
+#
+
 1. [Text-Detection](https://github.com/chitransh1998/Text-Detection): In this project, we utilize various image processing and machine learning algorithms to detect and recognize text in documents and images. Another application area explored was embossed text detction. This project was carried out by me as part of the Summer Internship at IIT Delhi in the NVM Research group.
 2. [Gesture Recognition](https://github.com/chitransh1998/Gesture-Recognition): In this project, we build two approaches using Convolutional Neural Networks and some conventional image processing techniques for identifying four popular hand gestures - Thumbs Up, Stop, Punch, and Peace.
 3. [Handwritten Equation Solver](https://github.com/chitransh1998/handwritten-equation-solver): In this project, we build a system that can effectively detect and recognize handwritten equations from their images and further provide their solution if it exists.
