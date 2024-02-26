@@ -53,9 +53,9 @@ We build a Random Forest Classifier for predicting the presence or abscence of H
 
 #
 
-<img align="left" width="250" height="130" src="https://github.com/chitransh1998/Credit-Card-Default-Prediction/blob/main/fraud_detection.jpg"> **[Credit Card Default Predictor](https://github.com/chitransh1998/Credit-Card-Default-Prediction)**
+<img align="left" width="250" height="120" src="https://github.com/chitransh1998/Credit-Card-Default-Prediction/blob/main/fraud_detection.jpg"> **[Credit Card Default Predictor](https://github.com/chitransh1998/Credit-Card-Default-Prediction)**
 
-A Logistic Regression based classification model to predict Credit Defaulting     
+A Logistic Regression based classification model to predict Credit Card Defaulting. A particularly useful feature is that all classifiers (and linear models) are called using the same API, so it is easy to test between different models (see the sklearn-intro notebook for examples).     
 
 #
 
