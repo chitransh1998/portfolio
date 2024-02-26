@@ -67,7 +67,7 @@ In this project, we predict Life expectancy of different countries. We will expl
 
 ## Unsupervized Learning
 
-<img align="left" width="250" height="150" src="https://github.com/chitransh1998/Restaurant-Recommender/blob/main/restaurant.jpg"> **[Restaurant Recommender](https://github.com/chitransh1998/Restaurant-Recommender)**
+<img align="left" width="250" height="140" src="https://github.com/chitransh1998/Restaurant-Recommender/blob/main/restaurant.jpg"> **[Restaurant Recommender](https://github.com/chitransh1998/Restaurant-Recommender)**
 
 We build a recommendation system where we specifically focus on geographic locations to render the top 5 restaurants based on the current location of the user.
 
