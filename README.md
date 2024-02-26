@@ -29,7 +29,7 @@ In this project, we utilize various image processing and machine learning algori
 
 <img align="left" width="250" height="150" src="https://github.com/chitransh1998/Gesture-Recognition/blob/main/Hand_gestures_into.jpg"> **[Gesture Recognition](https://github.com/chitransh1998/Gesture-Recognition)**
 
-In this project, we build two approaches using Convolutional Neural Networks and some conventional image processing techniques for identifying four popular hand gestures - Thumbs Up, Stop, Punch, and Peace.
+In this project, we build two approaches using Convolutional Neural Networks and some conventional image processing techniques for identifying four popular hand gestures - Thumbs Up, Stop, Punch, and Peace.  
 
 #
 
@@ -49,13 +49,13 @@ The purpose of this project is to detect tampering of PAN Card using Computer Vi
 
 <img align="left" width="250" height="150" src="https://github.com/chitransh1998/Heart-Disease-Prediction-/blob/main/heart%20disease.jpg"> **[Heart Disease Prediction](https://github.com/chitransh1998/Heart-Disease-Prediction-)**
 
-We build a Random Forest Classifier for predicting the presence or abscence of Heart Disease in patients. Each attribute potentially contributes information that could be used to determine heart disease risk.  
+We build a Random Forest Classifier for predicting the presence or abscence of Heart Disease in patients. Each attribute potentially contributes information that could be used to determine heart disease risk.    
 
 #
 
 <img align="left" width="250" height="150" src="https://github.com/chitransh1998/Credit-Card-Default-Prediction/blob/main/fraud_detection.jpg"> **[Credit Card Default Predictor](https://github.com/chitransh1998/Credit-Card-Default-Prediction)**
 
-A Logistic Regression based classification model to predict Credit Defaulting   
+A Logistic Regression based classification model to predict Credit Defaulting     
 
 #
 
