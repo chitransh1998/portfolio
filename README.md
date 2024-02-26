@@ -6,7 +6,7 @@ Each project showcases a specific set of skills and challenges, reflecting my pr
 The various projects are below:
 
 ## Special Projects
-1. [Covid-19 Data Warrior](https://github.com/chitransh1998/SARAL): This project is about my work with the administration of Bokaro (District in Eastern India with Population~2.5 million) to implement data-driven IT solutions, an interactive GIS Dashboard to track 30k incoming migrants and prevent the spread of the virus.
+1. <img align="left" width="250" height="150" src="https://github.com/chitransh1998/SARAL/blob/main/Incoming%20Migrants%20-%20Panchayatwise.PNG"> [Covid-19 Data Warrior](https://github.com/chitransh1998/SARAL): This project is about my work with the administration of Bokaro (District in Eastern India with Population~2.5 million) to implement data-driven IT solutions, an interactive GIS Dashboard to track 30k incoming migrants and prevent the spread of the virus.
 2. [Real time LLM Recommendation Engine](https://github.com/chitransh1998/recommendation-engine/tree/main): This recommendation engine helps users identify the most suitable Large Language Model (LLM) for their use-case by aggregating data from various sources such as the Hugging Face Leaderboard, Twitter, and GitHub. It utilizes semantic search combined with real-time analytics to provide accurate recommendations.  
 
 ## Computer Vision
