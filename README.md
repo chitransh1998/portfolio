@@ -47,7 +47,7 @@ The purpose of this project is to detect tampering of PAN Card using Computer Vi
 
 ## Regression and Classification
 
-<img align="left" width="250" height="150" src="https://github.com/chitransh1998/Heart-Disease-Prediction-/blob/main/heart%20disease.jpg"> **[Heart Disease Prediction](https://github.com/chitransh1998/Heart-Disease-Prediction-)**
+<img align="left" width="250" height="130" src="https://github.com/chitransh1998/Heart-Disease-Prediction-/blob/main/heart%20disease.jpg"> **[Heart Disease Prediction](https://github.com/chitransh1998/Heart-Disease-Prediction-)**
 
 We build a Random Forest Classifier for predicting the presence or abscence of Heart Disease in patients. Each attribute potentially contributes information that could be used to determine heart disease risk.    
 
