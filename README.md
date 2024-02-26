@@ -33,7 +33,7 @@ In this project, we build two approaches using Convolutional Neural Networks and
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/chitransh1998/handwritten-equation-solver/blob/main/Equation%20Image.jpeg"> **[Handwritten Equation Solver](https://github.com/chitransh1998/handwritten-equation-solver)**
+<img align="left" width="250" height="130" src="https://github.com/chitransh1998/handwritten-equation-solver/blob/main/Equation%20Image.jpeg"> **[Handwritten Equation Solver](https://github.com/chitransh1998/handwritten-equation-solver)**
 
 In this project, we build a system that can effectively detect and recognize handwritten equations from their images and further provide their solution if it exists.
 
